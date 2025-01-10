@@ -137,4 +137,3 @@ git remote set-url origin git@github.com-hesap2:kullanici2/repo.git
 ## 🎯 Sonuç
 Bu rehberde, **birden fazla GitHub hesabı için SSH anahtarları oluşturma, GitHub'a ekleme ve kullanma** işlemleri detaylı bir şekilde anlatıldı. Artık her iki hesabı da sorunsuz bir şekilde kullanabilirsiniz! 🚀
 
-Eğer takıldığınız bir nokta olursa yorum yapmaktan çekinmeyin! 😊
